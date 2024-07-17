@@ -77,6 +77,6 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 ## 🤝 Connect with Me
 
 - LinkedIn: [Uday Sutaria](https://www.linkedin.com/in/uday-sutaria/)
-- Email: [divyeshpindaria09@gmail.com](mailto:divyeshpindaria09@gmail.com)
+- Email: [udaysutaria20@gmail.com](mailto:divyeshpindaria09@gmail.com)
 
 Thank you for visiting my project! Feel free to reach out if you have any questions or feedback. ✨
