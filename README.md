@@ -1,4 +1,4 @@
-# 🌟 Mobile Application Development Internship 2024 - Project Showcase 🌟
+# 🌟 Summer Internship 2024 - My Hostel Mangement System Application Project Showcase 🌟
 
 Welcome to my GitHub repository for the Mobile Application Development Internship 2024! This project showcases the work done during the internship, focusing on the development of a Hostel Management Application using Flutter and Firebase.
 
