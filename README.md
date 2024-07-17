@@ -4,7 +4,7 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 
 ## 🚀 Introduction
 
-### *1st May 2024*
+### *13th May 2024*
 - **Project Kickoff**: Started with planning the project structure and workflow for the Hostel Management Application, aiming to create a robust and user-friendly mobile app.
 
 ## Week 1: Getting Started with Flutter
