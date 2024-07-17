@@ -9,7 +9,7 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 
 ## Week 1: Getting Started with Flutter
 
-### *1st May 2024 - 5th May 2024*
+### *13st May 2024 - 17th May 2024*
 - **Flutter Basics:**
   - Set up the Flutter development environment.
   - Created a new Flutter project.
@@ -23,7 +23,7 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 
 ## Week 2: Integrating Firebase
 
-### *8th May 2024 - 12th May 2024*
+### *20th May 2024 - 24th May 2024*
 - **Firebase Setup:**
   - Created a Firebase project and configured it with the Flutter application.
   - Set up Firebase Authentication and Firestore.
@@ -39,7 +39,7 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 
 ## Week 3: Developing Core Features
 
-### *15th May 2024 - 19th May 2024*
+### *27th May 2024 - 31th May 2024*
 - **Room Booking Feature:**
   - Developed the UI for room booking.
   - Implemented booking functionality using Firestore.
@@ -55,7 +55,7 @@ Welcome to my GitHub repository for the Summer Internship 2024! This project sho
 
 ## Week 4: Finalizing and Deployment
 
-### *22nd May 2024 - 26th May 2024*
+### *3rd June 2024 - 7th June 2024*
 - **UI/UX Improvements:**
   - Enhanced the UI with custom styles, animations, and transitions.
   - Improved the user experience based on feedback.
